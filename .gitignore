@@ -1,0 +1,31 @@
+# Ignore data files
+data/raw/
+data/processed/
+
+# Ignore outputs
+outputs/models/
+outputs/predictions/
+outputs/figures/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.venv/
+*.virtualenvs/
+
+# Ignore trained models
+outputs/models/*.pkl
+outputs/models/*.h5
+outputs/models/*.pt
+
+# Ignore log files
+logs/
+*.log
