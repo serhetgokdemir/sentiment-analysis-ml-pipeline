@@ -8,9 +8,9 @@ The main goal is to demonstrate the ability to solve a sentiment classification 
 ## Repository Structure
 ```
 /data-science-task/
-|-- data/
+|-- data/ # Not included in GITHUB due to request from mentors
 |   |-- raw/  # Raw input files (e.g., train.csv, test.csv)
-|   |-- processed/  # Preprocessed data (if any)
+|   |-- processed/
 |-- notebooks/
 |   |-- eda_text-preprocessing.ipynb  # EDA and preprocessing steps
 |   |-- modeling.ipynb  # Model training and evaluation
@@ -136,7 +136,3 @@ outputs/predictions/test_predictions.csv
 - **Customer Feedback Analysis:** Automatically classify customer feedback as positive or negative.
 - **Social Media Sentiment Analysis:** Identify trends in public sentiment for marketing strategies.
 - **Review Moderation:** Filter negative reviews for customer support prioritization.
-
----
-
-Feel free to reach out for questions or further clarifications!
