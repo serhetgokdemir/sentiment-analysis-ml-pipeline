@@ -7,10 +7,9 @@ The main goal is to demonstrate the ability to solve a sentiment classification 
 
 ## Repository Structure
 ```
-/data-science-task/
+/sentiment-analysis-ml-pipeline/
 |-- data/
-|   |-- raw/  # Raw input files (e.g., train.csv, test.csv)
-|   |-- processed/  # Preprocessed data (if any)
+|   |-- raw/  # Raw input files
 |-- notebooks/
 |   |-- eda_text-preprocessing.ipynb  # EDA and preprocessing steps
 |   |-- modeling.ipynb  # Model training and evaluation
