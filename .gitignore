@@ -5,8 +5,6 @@ data/processed/
 # Ignore outputs
 outputs/models/
 outputs/predictions/
-outputs/figures/
-
 # Ignore Python cache files
 __pycache__/
 *.pyc
